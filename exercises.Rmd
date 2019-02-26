@@ -66,5 +66,26 @@ How do you recreate the [graph](https://ecodatasci-tlv.github.io/factors/#31) sh
 
 _WRITE YOUR ANSWER HERE_
 
+## Chi-test
 
+Test whether `grass` egg group pokemons hatch into green adults more than expected by chance
 
+```{r}
+# YOUR CODE HERE
+```
+
+## Logistic regrssion
+
+Run a logistic regression to see if a pokemon's chance for mega evolution grows with its height, weight, and defense abilities
+
+```{r}
+# YOUR CODE HERE
+```
+
+## Multinomial regression 
+
+Find out how pokemons' defense, attack, and speed abilities associated with its egg group
+
+```{r}
+# YOUR CODE HERE
+```
