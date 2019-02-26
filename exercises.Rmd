@@ -8,6 +8,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Workshop slides: https://ecodatasci-tlv.github.io/factors
+
 ## Explore the data
 
 ```{r warning = FALSE, message = FALSE}
